@@ -1,6 +1,6 @@
-# falco-website
+# Falco-Website
 
-## Contributing logos
+## Contributing Logos
 
 In order to contribute a logo you must meet one of the following adopter types.
 
